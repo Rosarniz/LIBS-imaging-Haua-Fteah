@@ -1,4 +1,4 @@
-Supplementary Information for: *Seasonality from Mg/Ca ratios of prehistoric shellfish exploitation (Patella caerulea Linnaeus, 1758) at Haua Fteah (Libya, North Africa)*.
+Supplementary Information for: Seasonality from Mg/Ca ratios of prehistoric shellfish exploitation (*Patella caerulea* Linnaeus, 1758) at Haua Fteah (Libya, North Africa).
 
 Authors: Rosa Arniz-Mateos, Chris Hunt, Graeme Barker,Niklas Hausmann.
 

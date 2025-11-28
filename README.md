@@ -6,7 +6,7 @@ This repository contains the supplementary information for the article “Season
 
 **Contents**
 
-The repository provides access to the data supporting the analyses presented in the publication. 
+The repository provides access to the data supporting the analyses presented in the publication distributed by phases, spits and specimens.
 
 It includes:
 
